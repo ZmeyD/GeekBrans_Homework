@@ -1,20 +1,21 @@
 ﻿<Properties StartupConfiguration="{619DAFF0-58D0-43C5-B48A-27F930A502D9}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="FirstPractice/Program.cs">
     <Files>
-      <File FileName="FirstPractice/Program.cs" Line="8" Column="18" />
-      <File FileName="FirstPractice/Program.cs" Line="16" Column="28" />
+      <File FileName="FirstPractice/Program.cs" Line="16" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FirstPractice" expanded="True">
-            <Node name="FirstPractice" expanded="True" />
+            <Node name="FirstPractice" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.FirstPractice FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FirstPractice PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

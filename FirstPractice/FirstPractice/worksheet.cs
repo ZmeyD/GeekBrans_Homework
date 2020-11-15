@@ -15,4 +15,5 @@ class Program
         Console.WriteLine(x + "+" + y + "=" + z);     // Преобразование в строку
         Console.ReadLine();
     }
+  
 }
