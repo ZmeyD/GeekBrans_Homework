@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{3833DDD9-8989-4346-8686-2F492A5AD18A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fourth PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstPractice/Program.cs">
+    <Files>
+      <File FileName="Fifth/Program.cs" Line="14" Column="11" />
+      <File FileName="Sixth/Program.cs" />
+      <File FileName="Second/Program.cs" />
+      <File FileName="FirstPractice/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstPractice" expanded="True">
+            <Node name="FirstPractice" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Fifth FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Third PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Second PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FirstPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sixth PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

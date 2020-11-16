@@ -1,0 +1,4 @@
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/Second/bin/Release/Second.exe
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/Second/obj/anycpu/Release/Second.csprojAssemblyReference.cache
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/Second/obj/anycpu/Release/Second.csproj.CoreCompileInputs.cache
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/Second/obj/anycpu/Release/Second.exe

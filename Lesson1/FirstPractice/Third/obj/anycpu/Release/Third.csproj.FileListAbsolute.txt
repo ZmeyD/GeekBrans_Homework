@@ -1,0 +1,3 @@
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/Third/obj/anycpu/Release/Third.csproj.CoreCompileInputs.cache
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/Third/bin/Release/Third.exe
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/Third/obj/anycpu/Release/Third.exe
