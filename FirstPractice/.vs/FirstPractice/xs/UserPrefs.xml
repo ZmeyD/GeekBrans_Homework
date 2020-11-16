@@ -4,7 +4,8 @@
     <Files>
       <File FileName="Fifth/Program.cs" Line="14" Column="16" />
       <File FileName="Sixth/Program.cs" Line="36" Column="2" />
-      <File FileName="FirstPractice/Program.cs" Line="13" Column="9" />
+      <File FileName="FirstPractice/Program.cs" />
+      <File FileName="Second/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
