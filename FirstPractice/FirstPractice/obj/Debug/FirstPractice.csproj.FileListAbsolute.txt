@@ -1,0 +1,6 @@
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/FirstPractice/bin/Debug/FirstPractice.exe
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/FirstPractice/bin/Debug/FirstPractice.pdb
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/FirstPractice/obj/Debug/FirstPractice.csprojAssemblyReference.cache
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/FirstPractice/obj/Debug/FirstPractice.csproj.CoreCompileInputs.cache
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/FirstPractice/obj/Debug/FirstPractice.exe
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/FirstPractice/obj/Debug/FirstPractice.pdb
