@@ -1,20 +1,30 @@
-﻿<Properties StartupConfiguration="{34059E9C-5D06-4827-BC3B-AA656F093718}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Second/Program.cs">
+﻿<Properties StartupConfiguration="{3833DDD9-8989-4346-8686-2F492A5AD18A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fourth FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fourth/Program.cs">
     <Files>
-      <File FileName="FirstPractice/Program.cs" Line="14" Column="1" />
-      <File FileName="Second/Program.cs" Line="1" Column="1" />
+      <File FileName="Third/Program.cs" Line="10" Column="38" />
+      <File FileName="Fourth/Program.cs" Line="1" Column="1" />
+      <File FileName="Fifth/Program.cs" Line="9" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FirstPractice" expanded="True">
-            <Node name="Second" expanded="True" selected="True" />
+            <Node name="Fifth" expanded="True" />
+            <Node name="FirstPractice" expanded="True" />
+            <Node name="Fourth" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Second" expanded="True" />
+            <Node name="Third" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Second FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Fifth FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Third FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Second PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FirstPractice PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|anycpu" />
