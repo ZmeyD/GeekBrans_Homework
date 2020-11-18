@@ -1,0 +1,3 @@
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/FirstPractice/bin/Release/FirstPractice.exe
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/FirstPractice/obj/Release/FirstPractice.csproj.CoreCompileInputs.cache
+/Users/nikitakozlov/GeekBrans_Homework/FirstPractice/FirstPractice/obj/Release/FirstPractice.exe
