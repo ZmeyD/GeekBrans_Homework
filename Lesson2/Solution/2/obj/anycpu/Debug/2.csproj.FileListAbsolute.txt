@@ -1,0 +1,6 @@
+/Users/nikitakozlov/GeekBrans_Homework/Lesson2/Solution/2/bin/Debug/2.exe
+/Users/nikitakozlov/GeekBrans_Homework/Lesson2/Solution/2/bin/Debug/2.pdb
+/Users/nikitakozlov/GeekBrans_Homework/Lesson2/Solution/2/obj/anycpu/Debug/2.csprojAssemblyReference.cache
+/Users/nikitakozlov/GeekBrans_Homework/Lesson2/Solution/2/obj/anycpu/Debug/2.csproj.CoreCompileInputs.cache
+/Users/nikitakozlov/GeekBrans_Homework/Lesson2/Solution/2/obj/anycpu/Debug/2.exe
+/Users/nikitakozlov/GeekBrans_Homework/Lesson2/Solution/2/obj/anycpu/Debug/2.pdb
