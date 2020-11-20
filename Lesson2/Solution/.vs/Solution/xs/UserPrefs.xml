@@ -1,23 +1,20 @@
-﻿<Properties StartupConfiguration="{882EA126-D420-493D-8690-6EB348E6A72D}|Default">
-  <MonoDevelop.Ide.ItemProperties.5 FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.4 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{52BB92B0-06FF-491E-8725-80FF4FCFE8CE}|Default">
+  <MonoDevelop.Ide.ItemProperties.5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="2/Program.cs">
-    <Files>
-      <File FileName="Program.cs" Line="9" Column="45" />
-      <File FileName="2/Program.cs" Line="1" Column="1" />
-      <File FileName="3/Program.cs" />
-      <File FileName="4/Program.cs" />
-      <File FileName="5/Program.cs" />
-      <File FileName="6/Program.cs" />
-      <File FileName="7/Program.cs" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Solution" expanded="True">
-            <Node name="3" selected="True" />
-            <Node name="7" expanded="True" />
+            <Node name="2" expanded="True" />
+            <Node name="3" expanded="True" />
+            <Node name="4" expanded="True" />
+            <Node name="5" expanded="True" />
+            <Node name="6" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Solution" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -25,12 +22,14 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Solution PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.7 FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.3 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>7/7.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.6 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.6 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,5 @@
+/Users/nikitakozlov/GeekBrans_Homework/Lesson2/Solution/3/bin/Debug/3.exe
+/Users/nikitakozlov/GeekBrans_Homework/Lesson2/Solution/3/bin/Debug/3.pdb
+/Users/nikitakozlov/GeekBrans_Homework/Lesson2/Solution/3/obj/anycpu/Debug/3.csproj.CoreCompileInputs.cache
+/Users/nikitakozlov/GeekBrans_Homework/Lesson2/Solution/3/obj/anycpu/Debug/3.exe
+/Users/nikitakozlov/GeekBrans_Homework/Lesson2/Solution/3/obj/anycpu/Debug/3.pdb
