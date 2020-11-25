@@ -1,30 +1,23 @@
-﻿<Properties StartupConfiguration="{FCE63FCF-5EE9-4A6D-B0CE-31EA72C74A39}|Default">
-  <MonoDevelop.Ide.ItemProperties.3__task FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.2__task FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="4_task/Program.cs">
+﻿<Properties StartupConfiguration="{7E00A9D9-6F6B-428A-A53B-D9E506C7C65E}|Default">
+  <MonoDevelop.Ide.ItemProperties.2__task PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2_task/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="2_task/Program.cs" Line="1" Column="1" />
-      <File FileName="3_task/Program.cs" Line="1" Column="1" />
-      <File FileName="4_task/Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="17" Column="29" />
+      <File FileName="2_task/Program.cs" Line="24" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Method_Structure" expanded="True">
             <Node name="2_task" expanded="True" />
-            <Node name="3_task" expanded="True" />
-            <Node name="4_task" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="3_task" expanded="True" selected="True" />
             <Node name="Method_Structure" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Method__Structure FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.4__task FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Method__Structure PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
