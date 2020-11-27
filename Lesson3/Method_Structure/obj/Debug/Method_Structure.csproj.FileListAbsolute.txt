@@ -1,0 +1,6 @@
+/Users/nikitakozlov/GeekBrans_Homework/Lesson3/Method_Structure/bin/Debug/Method_Structure.exe
+/Users/nikitakozlov/GeekBrans_Homework/Lesson3/Method_Structure/bin/Debug/Method_Structure.pdb
+/Users/nikitakozlov/GeekBrans_Homework/Lesson3/Method_Structure/obj/Debug/Method_Structure.csprojAssemblyReference.cache
+/Users/nikitakozlov/GeekBrans_Homework/Lesson3/Method_Structure/obj/Debug/Method_Structure.csproj.CoreCompileInputs.cache
+/Users/nikitakozlov/GeekBrans_Homework/Lesson3/Method_Structure/obj/Debug/Method_Structure.exe
+/Users/nikitakozlov/GeekBrans_Homework/Lesson3/Method_Structure/obj/Debug/Method_Structure.pdb
