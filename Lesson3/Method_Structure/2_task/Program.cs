@@ -2,37 +2,50 @@
 
 namespace _task
 {
+    //Козлов Н.С. - единственный варинт с методом, который быстро пришел в голову.
 
-
-
-
+    //С клавиатуры вводятся числа, пока не будет введён 0 (каждое число в новой строке). Требуется подсчитать сумму всех нечётных положительных чисел. Сами числа и сумму вывести на экран, используя tryParse.
     class Program
     {
         static int value;
-        
-        static int GetValue()
-        {
-            int a = 0;
-            int result = 0;
 
-            do
-            {
-                Console.Write("Введите числа, выходом будет число 0: ");
-                result = int.Parse(Console.ReadLine());
-                if (result > 0 && result % 2 == 1)
-                    a += result;
-            }
-            while (result != 0);
+        //Проверка, что вводят не 0
+        static bool Check(int x)
+        {
+            bool a;
+
+            a = false;
+
+            if (x == 0)
+                a = true;
 
             return a;
         }
-     
-        static void Main()
+
+        public static void Main()
         {
             
-            value = GetValue();
-            Console.WriteLine("Сумма положительны и нечетных = ", value);
             
+
+            int x = 0;
+            int res = 0;
+
+
+            Console.Write("Введите числа, выходом будет число 0: ");
+
+            do
+            {
+                
+                x = int.Parse(Console.ReadLine());
+
+                if (x > 0 && x % 2 == 1)
+
+                    res += x;
+            }
+            while (Check(x) != true);
+
+            Console.WriteLine("Сумма положительны и нечетных = " + res);
+
         }
     }
 

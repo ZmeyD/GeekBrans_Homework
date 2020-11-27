@@ -1,17 +1,14 @@
 ﻿<Properties StartupConfiguration="{7E00A9D9-6F6B-428A-A53B-D9E506C7C65E}|Default">
   <MonoDevelop.Ide.ItemProperties.2__task PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="2_task/Program.cs">
-    <Files>
-      <File FileName="Program.cs" Line="17" Column="29" />
-      <File FileName="2_task/Program.cs" Line="24" Column="44" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Method_Structure" expanded="True">
             <Node name="2_task" expanded="True" />
-            <Node name="3_task" expanded="True" selected="True" />
-            <Node name="Method_Structure" expanded="True" />
+            <Node name="Method_Structure" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
